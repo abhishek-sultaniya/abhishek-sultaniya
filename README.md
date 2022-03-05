@@ -14,7 +14,7 @@
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=abhishek-sultaniya&show_icons=true&count_private=true&theme=onedark" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-sultaniya&theme=onedark">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-sultaniya&theme=onedark" />
+<!--   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-sultaniya&theme=onedark&hide=html,handlebars" /> -->
 </a>
 </div>
 
